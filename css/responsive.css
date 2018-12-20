@@ -20,7 +20,12 @@
     font-size: 85%;
   }
   
-  #logo hi {
+  #logo h1 {
+    width: 35px;
+    height: 35px;
+  } 
+  
+   #logo h2 {
     width: 35px;
     height: 35px;
   } 
