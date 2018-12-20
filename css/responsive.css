@@ -56,4 +56,9 @@
   .border-right {
     border: 0;
   }
+  
+  #details div {
+    heigth: auto;
+    padding-bottom: 28px;
+  }
 }
